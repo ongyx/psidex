@@ -8,3 +8,5 @@ The idea for this came from ywangd’s [proof of concept](https://github.com/ywa
 and I decided to try my hand at making a polished, fully working and scalable version.
 The package manager used would be psiman (formerly [spkg](https://github.com/sn3ksoftware/sandpkg/tree/testing)), a Python rewrite of the original package manager.
 More to come here soon (this is wip for now)
+
+P.S: The pixel-art logo was made by me, so everything here is under the MIT License.
