@@ -12,9 +12,8 @@ The package manager used would be psiman (formerly [spkg](https://github.com/sn3
 
 * Everything you expect from a normal package manager (install, remove pkgs, etc).
 * Info about packages (description, version, author info) stored in json format. This is split into two diffrent files...
-
-..* **package.json**, a file containing detailed infomation about a script/package. Scripts/packages (preferably) each have their own json file, and may share the package.json file (i.e, one per author).
-..* **index.json**, a global index file which holds minimal info about **all** scripts/packages available (name, desc., url of package.json). Packages need not be stored in the same server as the index.json file, and may have an external download url (i.e, from another Github repo, etc.)
+   * **package.json**, a file containing detailed infomation about a script/package. Scripts/packages (preferably) each have their own json file, and may share the package.json file (i.e, one per author).
+   * **index.json**, a global index file which holds minimal info about **all** scripts/packages available (name, desc., url of package.json). Packages need not be stored in the same server as the index.json file, and may have an external download url (i.e, from another Github repo, etc.)
 
 Eventually, a wiki containing actual documnetation will be started.
 For now, just visit ywangd's [repo](https://github.com/ywangd/Pythonista-Script-Index) for more detais on this system.
