@@ -5,6 +5,7 @@
     "email": "annoyamousorange@gmail.com",
     "website": "https://github.com/sn3ksoftware",
     "description": "The classic test script.",
+    “deps”: “None”,
 
     "releases": [ 
         {
