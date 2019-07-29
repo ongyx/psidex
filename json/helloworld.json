@@ -1,0 +1,15 @@
+{
+    "meta_version": "1.0",  
+    "name": "helloworld",
+    "author": "Ong Yong Xin",
+    "email": "annoyamousorange@gmail.com",
+    "website": "https://github.com/sn3ksoftware",
+    "description": "The classic test script.",
+
+    "releases": [ 
+        {
+            "version": "1.0", 
+            "url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/packages/stable/helloworld.zip”,
+        }
+    ]
+}
