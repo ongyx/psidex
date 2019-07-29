@@ -6,7 +6,7 @@
 Welcome to the psidex, a json-based system for python script distribution!
 The basis for this came from @ywangd’s [proof of concept](https://github.com/ywangd/Pythonista-Script-Index),
 and I decided to try my hand at making a polished, fully working and scalable version.
-The package manager used would be psiman (formerly [spkg](https://github.com/sn3ksoftware/sandpkg/tree/testing)), a Python rewrite of the original package manager.
+The package manager used would be [psiman](https://github.com/sn3ksoftware/psiman) (formerly [spkg](https://github.com/sn3ksoftware/sandpkg/tree/testing)), a Python rewrite of the original package manager.
 
 # Features (as laid out by ywangd in their repo)
 
