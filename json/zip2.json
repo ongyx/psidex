@@ -5,7 +5,6 @@
     "email": "annoyamousorange@gmail.com",
     "website": "https://github.com/sn3ksoftware",
     "description": "A re-written zip/unzip utility.",
-    “deps”: “None”,
 
     "releases": [ 
         {
