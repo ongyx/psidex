@@ -5,11 +5,11 @@
 
     "scripts": {
         "helloworld": {
-            "meta_url": "https://github.com/sn3ksoftware/json/helloworld.json",
+            "meta_url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/json/helloworld.json",
         },
 
         "zip2": {
-            "meta_url": "https://github.com/sn3ksoftware/json/zip2.json",
+            "meta_url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/json/zip2.json",
         }
     }
     
