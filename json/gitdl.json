@@ -1,0 +1,1 @@
+{"meta_version": "1.0.0", "name": "gitdl", "author": "Ong Yong Xin", "email": "annoyamousorange@gmail.com", "website": "https://github.com/sn3ksoftware", "description": "Tool to download repos/gists from github.", "releases": {"1.0.0": {"url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/packages/stable/gitdl.zip"}}}
