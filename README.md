@@ -15,7 +15,7 @@ The package manager used would be [psiman](https://github.com/sn3ksoftware/psima
    * **package.json**, a file containing detailed infomation about a script/package. Scripts/packages (preferably) each have their own json file, and may share the package.json file (i.e, one per author).
    * **index.json**, a global index file which holds minimal info about **all** scripts/packages available (name, desc., url of package.json). Packages need not be stored in the same server as the index.json file, and may have an external download url (i.e, from another Github repo, etc.)
 
-Eventually, a wiki containing actual documnetation will be started.
+Eventually, a wiki containing actual documentation will be started.
 For now, just visit ywangd's [repo](https://github.com/ywangd/Pythonista-Script-Index) for more detais on this system.
 
 P.S: The pixel-art logo was made by me(!)
