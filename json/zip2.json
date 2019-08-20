@@ -1,1 +1,13 @@
-{"meta_version": "1.0.0", "name": "zip2", "author": "Ong Yong Xin", "email": "annoyamousorange@gmail.com", "website": "https://github.com/sn3ksoftware", "description": "A re-written zip/unzip utility.", "releases": {"1.0.0": {"url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/packages/stable/zip2.zip"}}}
+{
+    "meta_version": "1.0.0",
+    "name": "zip2",
+    "author": "Ong Yong Xin",
+    "email": "annoyamousorange@gmail.com",
+    "website": "https://github.com/sn3ksoftware",
+    "description": "A simple script to zip files.",
+    "releases": {
+        "1.0.0": {
+            "url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/packages/stable/zip2.zip"
+        }
+    }
+}
