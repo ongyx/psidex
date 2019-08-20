@@ -1,1 +1,16 @@
-{"meta_version": "1.0.0", "name": "Python Script Index", "website": "https://github.com/sn3ksoftware/psidex", "scripts": {"helloworld": {"meta_url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/json/helloworld.json"}, "zip2": {"meta_url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/json/zip2.json"}, "gitdl": {"meta_url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/json/gitdl.json"}, "psiman": {"meta_url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/json/psiman.json"}}}
+{
+    "meta_version": "1.0.0",
+    "name": "Python Script Index",
+    "scripts": {
+        "gitdl": {
+            "meta_url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/json/gitdl.json"
+        },
+        "helloworld": {
+            "meta_url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/json/helloworld.json"
+        },
+        "zip2": {
+            "meta_url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/json/zip2.json"
+        }
+    },
+    "website": "https://github.com/sn3ksoftware/psidex"
+}
