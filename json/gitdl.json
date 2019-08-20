@@ -4,7 +4,7 @@
     "author": "Ong Yong Xin",
     "email": "annoyamousorange@gmail.com",
     "website": "https://github.com/sn3ksoftware",
-    "description": "The easy way to download hithub repos and gists.",
+    "description": "The easy way to download github repos and gists.",
     "releases": {
         "1.0.0": {
             "url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/packages/stable/gitdl.zip"
