@@ -5,6 +5,9 @@
 </p>
 
 # psidex: The Python Script InDEX
+
+![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/sn3ksoftware/psidex?include_prereleases&sort=semver)
+
 (formerly [Pythonista Script Index](https://github.com/ywangd/Pythonista-Script-Index))
 
 <img src="https://raw.githubusercontent.com/sn3ksoftware/psidex/master/psidex_logo.png" alt="psidex_logo:Ψ" width="200"/>
