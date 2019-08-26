@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/sn3ksoftware/psiman">psiman</a> &bull;
+  <b> psidex </b> &bull;
+  <a href="https://github.com/sn3ksoftware/sandpkg">sandpkg</a>
+</p>
+
 # psidex: The Python Script InDEX
 (formerly [Pythonista Script Index](https://github.com/ywangd/Pythonista-Script-Index))
 
