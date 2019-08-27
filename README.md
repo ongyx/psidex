@@ -17,6 +17,8 @@ The basis for this came from @ywangd’s [proof of concept](https://github.com/y
 and I decided to try my hand at making a polished, fully working and scalable version.
 The package manager used would be [psiman](https://github.com/sn3ksoftware/psiman) (formerly [spkg](https://github.com/sn3ksoftware/sandpkg/tree/testing)), a Python rewrite of the original package manager.
 
+See the [wiki](https://github.com/sn3ksoftware/psidex/wiki) for more documentation.
+
 # Features (as laid out by ywangd in their repo)
 
 * Everything you expect from a normal package manager (install, remove pkgs, etc).
