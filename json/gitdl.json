@@ -2,7 +2,7 @@
     "meta_version": "1.0.1",
     "name": "gitdl",
     "type": "script",
-    "branch": "stable"
+    "branch": "stable",
     "author": "Ong Yong Xin",
     "email": "annoyamousorange@gmail.com",
     "website": "https://github.com/sn3ksoftware",
