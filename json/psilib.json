@@ -1,0 +1,15 @@
+{
+    "meta_version": "1.0.1",
+    "name": "psilib",
+    "type": "module",
+    "branch": "rolling",
+    "author": "Ong Yong Xin",
+    "email": "annoyamousorange@gmail.com",
+    "website": "https://github.com/sn3ksoftware",
+    "description": "high-level library that installs packages",
+    "releases": {
+        "3.1.0-alpha": {
+            "url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/packages/rolling/psilib.zip"
+        }
+    }
+}
