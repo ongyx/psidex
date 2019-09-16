@@ -4,27 +4,27 @@
     "website": "https://github.com/sn3ksoftware/psidex",
     "scripts": {
         "helloworld": {
-            "meta_url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/json/helloworld.json",
+            "meta_url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/json/sn3ksoftware.json#helloworld",
             "type": "script",
             "branch": "stable"
         },
         "zip2": {
-            "meta_url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/json/zip2.json",
+            "meta_url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/json/sn3ksoftware.json#zip2",
             "type": "script",
             "branch": "stable"
         },
         "gitdl": {
-            "meta_url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/json/gitdl.json",
+            "meta_url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/json/sn3ksoftware.json#gitdl",
             "type": "script",
             "branch": "stable"
         },
-        "psiman": {
-            "meta_url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/json/psiman.json",
+        "psicli": {
+            "meta_url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/json/sn3ksoftware.json#psicli",
             "type": "script",
             "branch": "rolling"
         },
         "psilib": {
-            "meta_url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/json/psilib.json",
+            "meta_url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/json/sn3ksoftware.json#psilib",
             "type": "module",
             "branch": "rolling"
         }

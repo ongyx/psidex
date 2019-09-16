@@ -1,0 +1,82 @@
+{
+    "gitdl": {
+        "meta_version": "1.0.1",
+        "name": "gitdl",
+        "type": "script",
+        "branch": "stable",
+        "author": "Ong Yong Xin",
+        "email": "annoyamousorange@gmail.com",
+        "website": "https://github.com/sn3ksoftware",
+        "description": "The easy way to download github repos and gists.",
+        "releases": [
+            {
+                "version": "1.0.0",
+                "url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/packages/stable/gitdl.zip"
+            }
+        ]
+    },
+    "helloworld": {
+        "meta_version": "1.0.1",
+        "name": "helloworld",
+        "type": "script",
+        "branch": "stable",
+        "author": "Ong Yong Xin",
+        "email": "annoyamousorange@gmail.com",
+        "website": "https://github.com/sn3ksoftware",
+        "description": "The classic.",
+        "releases": [
+            {
+                "version": "1.0.0",
+                "url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/packages/stable/helloworld.zip"
+            }
+        ]
+    },
+    "psilib": {
+        "meta_version": "1.0.1",
+        "name": "psilib",
+        "type": "module",
+        "branch": "rolling",
+        "author": "Ong Yong Xin",
+        "email": "annoyamousorange@gmail.com",
+        "website": "https://github.com/sn3ksoftware",
+        "description": "high-level library that installs packages",
+        "releases": [
+            {
+                "version": "3.1.0-alpha",
+                "url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/packages/rolling/psilib.zip"
+            }
+        ]
+    },
+    "psicli": {
+        "meta_version": "1.0.1",
+        "name": "psicli",
+        "type": "script",
+        "branch": "rolling",
+        "author": "Ong Yong Xin",
+        "email": "annoyamousorange@gmail.com",
+        "website": "https://github.com/sn3ksoftware",
+        "description": "the CLI frontend of the psilib package manager",
+        "releases": [
+            {
+                "version": "0.1.1-alpha",
+                "url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/packages/rolling/psiman.zip"
+            }
+        ]
+    },
+    "zip2": {
+        "meta_version": "1.0.1",
+        "name": "zip2",
+        "type": "script",
+        "branch": "stable",
+        "author": "Ong Yong Xin",
+        "email": "annoyamousorange@gmail.com",
+        "website": "https://github.com/sn3ksoftware",
+        "description": "A simple script to zip files.",
+        "releases": [
+            {
+                "version": "1.0.0",
+                "url": "https://raw.githubusercontent.com/sn3ksoftware/psidex/master/packages/stable/zip2.zip"
+            }
+        ]
+    }
+}
