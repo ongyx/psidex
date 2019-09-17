@@ -26,8 +26,8 @@ See the [wiki](https://github.com/sn3ksoftware/psidex/wiki) for more documentati
    * **package.json**, a file containing detailed infomation about a script/package. Scripts/packages (preferably) each have their own json file, and may share the package.json file (i.e, one per author).
    * **index.json**, a global index file which holds minimal info about **all** scripts/packages available (name, desc., url of package.json). Packages need not be stored in the same server as the index.json file, and may have an external download url (i.e, from another Github repo, etc.)
 
-Eventually, a wiki containing actual documentation will be started.
-For now, just visit ywangd's [repo](https://github.com/ywangd/Pythonista-Script-Index) for more detais on this system.
+ywangd's [repo](https://github.com/ywangd/Pythonista-Script-Index) was the original inspiration for all this.
+Go check it out if you have the time.
 
 P.S: The pixel-art logo was made by me(!)
 You are freely allowed to use the logo as under the same terms of the Python logo creators, in that:
