@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/sn3ksoftware/psilib">psilib</a> &bull;
-  <a href="https://github.com/sn3ksoftware/psiman">psiman</a> &bull;
+  <a href="https://github.com/sn3ksoftware/psicli">psicli</a> &bull;
   <b> psidex </b>
 </p>
 
