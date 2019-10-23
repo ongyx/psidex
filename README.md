@@ -12,6 +12,10 @@
 
 <img src="https://raw.githubusercontent.com/sn3ksoftware/psidex/master/psidex_logo.png" alt="psidex_logo:Ψ" width="200"/>
 
+# N.B
+This project is not in development anymore. It has been abandoned in favor of [Latte](https://github.com/sn3ksoftware/latte), which is a lot more simpler than the current JSON setup.
+You are free to fork and redistribute under the terms of the MIT License if you want.
+
 Welcome to the psidex, a json-based system for python script distribution!
 The basis for this came from @ywangd’s [proof of concept](https://github.com/ywangd/Pythonista-Script-Index),
 and I decided to try my hand at making a polished, fully working and scalable version.
